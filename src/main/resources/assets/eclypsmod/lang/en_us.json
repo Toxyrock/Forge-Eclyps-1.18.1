@@ -1,3 +1,6 @@
 {
-  "item.eclypsmod.erinite": "Erinite"
+  "item.eclypsmod.erinite": "Erinite",
+  "item.eclypsmod.crystal_erinite": "Crystal Erinite",
+
+  "block.eclypsmod.erinite_block": "Erinite Block"
 }
