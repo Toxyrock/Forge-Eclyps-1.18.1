@@ -1,6 +1,8 @@
 {
   "item.eclypsmod.erinite": "Erinite",
   "item.eclypsmod.crystal_erinite": "Crystal Erinite",
+  "block.eclypsmod.erinite_block": "Block of Erinite",
+  "block.eclypsmod.crystal_erinite_ore": "Crystal Erinite Ore",
 
-  "block.eclypsmod.erinite_block": "Erinite Block"
+  "itemGroup.eclypstab": "Eclyps Tab"
 }

@@ -13,10 +13,10 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, EclypsMod.MOD_ID);
 
         public static final RegistryObject<Item> ERINITE = ITEMS.register("erinite",
-                () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+                () -> new Item(new Item.Properties().tab(ModCreativeModeTab.ECLYPS_TAB)));
 
         public static final RegistryObject<Item> CRYSTAL_ERINITE = ITEMS.register("crystal_erinite",
-                () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+                () -> new Item(new Item.Properties().tab(ModCreativeModeTab.ECLYPS_TAB)));
 
 
 

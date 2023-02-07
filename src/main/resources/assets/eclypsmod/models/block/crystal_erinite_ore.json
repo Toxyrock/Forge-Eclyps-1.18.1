@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eclypsmod:block/crystal_erinite_ore"
+  }
+}
